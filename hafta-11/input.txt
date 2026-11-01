@@ -1,0 +1,251 @@
+Artificial intelligence is a field of computer science that studies how machines learn patterns from data. A language model predicts the next token based on the tokens that came before it.
+
+The GPT architecture uses a transformer decoder. Each transformer block contains causal self attention, a feed forward network, layer normalization, and residual connections.
+
+During training, the model reads batches of tokens. It predicts the next token at every position, computes cross entropy loss, and updates its parameters using gradients.
+
+The AdamW optimizer adjusts parameter updates using moving averages of gradients. Weight decay regularizes matrix parameters. Gradient clipping helps prevent unusually large updates.
+
+A learning rate schedule begins with warmup and then gradually decreases with a cosine curve. Gradient accumulation combines several micro batches into one effective larger batch.
+
+On compatible GPUs, reduced precision arithmetic and efficient attention kernels can accelerate training. Benchmarks compare elapsed time and the number of tokens processed per second.
+
+This is a small educational dataset. It is useful for demonstrating how a training loop works, but it is not sufficient for training a capable general purpose language model.
+
+Artificial intelligence is a field of computer science that studies how machines learn patterns from data. A language model predicts the next token based on the tokens that came before it.
+
+The GPT architecture uses a transformer decoder. Each transformer block contains causal self attention, a feed forward network, layer normalization, and residual connections.
+
+During training, the model reads batches of tokens. It predicts the next token at every position, computes cross entropy loss, and updates its parameters using gradients.
+
+The AdamW optimizer adjusts parameter updates using moving averages of gradients. Weight decay regularizes matrix parameters. Gradient clipping helps prevent unusually large updates.
+
+A learning rate schedule begins with warmup and then gradually decreases with a cosine curve. Gradient accumulation combines several micro batches into one effective larger batch.
+
+On compatible GPUs, reduced precision arithmetic and efficient attention kernels can accelerate training. Benchmarks compare elapsed time and the number of tokens processed per second.
+
+This is a small educational dataset. It is useful for demonstrating how a training loop works, but it is not sufficient for training a capable general purpose language model.
+
+Artificial intelligence is a field of computer science that studies how machines learn patterns from data. A language model predicts the next token based on the tokens that came before it.
+
+The GPT architecture uses a transformer decoder. Each transformer block contains causal self attention, a feed forward network, layer normalization, and residual connections.
+
+During training, the model reads batches of tokens. It predicts the next token at every position, computes cross entropy loss, and updates its parameters using gradients.
+
+The AdamW optimizer adjusts parameter updates using moving averages of gradients. Weight decay regularizes matrix parameters. Gradient clipping helps prevent unusually large updates.
+
+A learning rate schedule begins with warmup and then gradually decreases with a cosine curve. Gradient accumulation combines several micro batches into one effective larger batch.
+
+On compatible GPUs, reduced precision arithmetic and efficient attention kernels can accelerate training. Benchmarks compare elapsed time and the number of tokens processed per second.
+
+This is a small educational dataset. It is useful for demonstrating how a training loop works, but it is not sufficient for training a capable general purpose language model.
+
+Artificial intelligence is a field of computer science that studies how machines learn patterns from data. A language model predicts the next token based on the tokens that came before it.
+
+The GPT architecture uses a transformer decoder. Each transformer block contains causal self attention, a feed forward network, layer normalization, and residual connections.
+
+During training, the model reads batches of tokens. It predicts the next token at every position, computes cross entropy loss, and updates its parameters using gradients.
+
+The AdamW optimizer adjusts parameter updates using moving averages of gradients. Weight decay regularizes matrix parameters. Gradient clipping helps prevent unusually large updates.
+
+A learning rate schedule begins with warmup and then gradually decreases with a cosine curve. Gradient accumulation combines several micro batches into one effective larger batch.
+
+On compatible GPUs, reduced precision arithmetic and efficient attention kernels can accelerate training. Benchmarks compare elapsed time and the number of tokens processed per second.
+
+This is a small educational dataset. It is useful for demonstrating how a training loop works, but it is not sufficient for training a capable general purpose language model.
+
+Artificial intelligence is a field of computer science that studies how machines learn patterns from data. A language model predicts the next token based on the tokens that came before it.
+
+The GPT architecture uses a transformer decoder. Each transformer block contains causal self attention, a feed forward network, layer normalization, and residual connections.
+
+During training, the model reads batches of tokens. It predicts the next token at every position, computes cross entropy loss, and updates its parameters using gradients.
+
+The AdamW optimizer adjusts parameter updates using moving averages of gradients. Weight decay regularizes matrix parameters. Gradient clipping helps prevent unusually large updates.
+
+A learning rate schedule begins with warmup and then gradually decreases with a cosine curve. Gradient accumulation combines several micro batches into one effective larger batch.
+
+On compatible GPUs, reduced precision arithmetic and efficient attention kernels can accelerate training. Benchmarks compare elapsed time and the number of tokens processed per second.
+
+This is a small educational dataset. It is useful for demonstrating how a training loop works, but it is not sufficient for training a capable general purpose language model.
+
+Artificial intelligence is a field of computer science that studies how machines learn patterns from data. A language model predicts the next token based on the tokens that came before it.
+
+The GPT architecture uses a transformer decoder. Each transformer block contains causal self attention, a feed forward network, layer normalization, and residual connections.
+
+During training, the model reads batches of tokens. It predicts the next token at every position, computes cross entropy loss, and updates its parameters using gradients.
+
+The AdamW optimizer adjusts parameter updates using moving averages of gradients. Weight decay regularizes matrix parameters. Gradient clipping helps prevent unusually large updates.
+
+A learning rate schedule begins with warmup and then gradually decreases with a cosine curve. Gradient accumulation combines several micro batches into one effective larger batch.
+
+On compatible GPUs, reduced precision arithmetic and efficient attention kernels can accelerate training. Benchmarks compare elapsed time and the number of tokens processed per second.
+
+This is a small educational dataset. It is useful for demonstrating how a training loop works, but it is not sufficient for training a capable general purpose language model.
+
+Artificial intelligence is a field of computer science that studies how machines learn patterns from data. A language model predicts the next token based on the tokens that came before it.
+
+The GPT architecture uses a transformer decoder. Each transformer block contains causal self attention, a feed forward network, layer normalization, and residual connections.
+
+During training, the model reads batches of tokens. It predicts the next token at every position, computes cross entropy loss, and updates its parameters using gradients.
+
+The AdamW optimizer adjusts parameter updates using moving averages of gradients. Weight decay regularizes matrix parameters. Gradient clipping helps prevent unusually large updates.
+
+A learning rate schedule begins with warmup and then gradually decreases with a cosine curve. Gradient accumulation combines several micro batches into one effective larger batch.
+
+On compatible GPUs, reduced precision arithmetic and efficient attention kernels can accelerate training. Benchmarks compare elapsed time and the number of tokens processed per second.
+
+This is a small educational dataset. It is useful for demonstrating how a training loop works, but it is not sufficient for training a capable general purpose language model.
+
+Artificial intelligence is a field of computer science that studies how machines learn patterns from data. A language model predicts the next token based on the tokens that came before it.
+
+The GPT architecture uses a transformer decoder. Each transformer block contains causal self attention, a feed forward network, layer normalization, and residual connections.
+
+During training, the model reads batches of tokens. It predicts the next token at every position, computes cross entropy loss, and updates its parameters using gradients.
+
+The AdamW optimizer adjusts parameter updates using moving averages of gradients. Weight decay regularizes matrix parameters. Gradient clipping helps prevent unusually large updates.
+
+A learning rate schedule begins with warmup and then gradually decreases with a cosine curve. Gradient accumulation combines several micro batches into one effective larger batch.
+
+On compatible GPUs, reduced precision arithmetic and efficient attention kernels can accelerate training. Benchmarks compare elapsed time and the number of tokens processed per second.
+
+This is a small educational dataset. It is useful for demonstrating how a training loop works, but it is not sufficient for training a capable general purpose language model.
+
+Artificial intelligence is a field of computer science that studies how machines learn patterns from data. A language model predicts the next token based on the tokens that came before it.
+
+The GPT architecture uses a transformer decoder. Each transformer block contains causal self attention, a feed forward network, layer normalization, and residual connections.
+
+During training, the model reads batches of tokens. It predicts the next token at every position, computes cross entropy loss, and updates its parameters using gradients.
+
+The AdamW optimizer adjusts parameter updates using moving averages of gradients. Weight decay regularizes matrix parameters. Gradient clipping helps prevent unusually large updates.
+
+A learning rate schedule begins with warmup and then gradually decreases with a cosine curve. Gradient accumulation combines several micro batches into one effective larger batch.
+
+On compatible GPUs, reduced precision arithmetic and efficient attention kernels can accelerate training. Benchmarks compare elapsed time and the number of tokens processed per second.
+
+This is a small educational dataset. It is useful for demonstrating how a training loop works, but it is not sufficient for training a capable general purpose language model.
+
+Artificial intelligence is a field of computer science that studies how machines learn patterns from data. A language model predicts the next token based on the tokens that came before it.
+
+The GPT architecture uses a transformer decoder. Each transformer block contains causal self attention, a feed forward network, layer normalization, and residual connections.
+
+During training, the model reads batches of tokens. It predicts the next token at every position, computes cross entropy loss, and updates its parameters using gradients.
+
+The AdamW optimizer adjusts parameter updates using moving averages of gradients. Weight decay regularizes matrix parameters. Gradient clipping helps prevent unusually large updates.
+
+A learning rate schedule begins with warmup and then gradually decreases with a cosine curve. Gradient accumulation combines several micro batches into one effective larger batch.
+
+On compatible GPUs, reduced precision arithmetic and efficient attention kernels can accelerate training. Benchmarks compare elapsed time and the number of tokens processed per second.
+
+This is a small educational dataset. It is useful for demonstrating how a training loop works, but it is not sufficient for training a capable general purpose language model.
+
+Artificial intelligence is a field of computer science that studies how machines learn patterns from data. A language model predicts the next token based on the tokens that came before it.
+
+The GPT architecture uses a transformer decoder. Each transformer block contains causal self attention, a feed forward network, layer normalization, and residual connections.
+
+During training, the model reads batches of tokens. It predicts the next token at every position, computes cross entropy loss, and updates its parameters using gradients.
+
+The AdamW optimizer adjusts parameter updates using moving averages of gradients. Weight decay regularizes matrix parameters. Gradient clipping helps prevent unusually large updates.
+
+A learning rate schedule begins with warmup and then gradually decreases with a cosine curve. Gradient accumulation combines several micro batches into one effective larger batch.
+
+On compatible GPUs, reduced precision arithmetic and efficient attention kernels can accelerate training. Benchmarks compare elapsed time and the number of tokens processed per second.
+
+This is a small educational dataset. It is useful for demonstrating how a training loop works, but it is not sufficient for training a capable general purpose language model.
+
+Artificial intelligence is a field of computer science that studies how machines learn patterns from data. A language model predicts the next token based on the tokens that came before it.
+
+The GPT architecture uses a transformer decoder. Each transformer block contains causal self attention, a feed forward network, layer normalization, and residual connections.
+
+During training, the model reads batches of tokens. It predicts the next token at every position, computes cross entropy loss, and updates its parameters using gradients.
+
+The AdamW optimizer adjusts parameter updates using moving averages of gradients. Weight decay regularizes matrix parameters. Gradient clipping helps prevent unusually large updates.
+
+A learning rate schedule begins with warmup and then gradually decreases with a cosine curve. Gradient accumulation combines several micro batches into one effective larger batch.
+
+On compatible GPUs, reduced precision arithmetic and efficient attention kernels can accelerate training. Benchmarks compare elapsed time and the number of tokens processed per second.
+
+This is a small educational dataset. It is useful for demonstrating how a training loop works, but it is not sufficient for training a capable general purpose language model.
+
+Artificial intelligence is a field of computer science that studies how machines learn patterns from data. A language model predicts the next token based on the tokens that came before it.
+
+The GPT architecture uses a transformer decoder. Each transformer block contains causal self attention, a feed forward network, layer normalization, and residual connections.
+
+During training, the model reads batches of tokens. It predicts the next token at every position, computes cross entropy loss, and updates its parameters using gradients.
+
+The AdamW optimizer adjusts parameter updates using moving averages of gradients. Weight decay regularizes matrix parameters. Gradient clipping helps prevent unusually large updates.
+
+A learning rate schedule begins with warmup and then gradually decreases with a cosine curve. Gradient accumulation combines several micro batches into one effective larger batch.
+
+On compatible GPUs, reduced precision arithmetic and efficient attention kernels can accelerate training. Benchmarks compare elapsed time and the number of tokens processed per second.
+
+This is a small educational dataset. It is useful for demonstrating how a training loop works, but it is not sufficient for training a capable general purpose language model.
+
+Artificial intelligence is a field of computer science that studies how machines learn patterns from data. A language model predicts the next token based on the tokens that came before it.
+
+The GPT architecture uses a transformer decoder. Each transformer block contains causal self attention, a feed forward network, layer normalization, and residual connections.
+
+During training, the model reads batches of tokens. It predicts the next token at every position, computes cross entropy loss, and updates its parameters using gradients.
+
+The AdamW optimizer adjusts parameter updates using moving averages of gradients. Weight decay regularizes matrix parameters. Gradient clipping helps prevent unusually large updates.
+
+A learning rate schedule begins with warmup and then gradually decreases with a cosine curve. Gradient accumulation combines several micro batches into one effective larger batch.
+
+On compatible GPUs, reduced precision arithmetic and efficient attention kernels can accelerate training. Benchmarks compare elapsed time and the number of tokens processed per second.
+
+This is a small educational dataset. It is useful for demonstrating how a training loop works, but it is not sufficient for training a capable general purpose language model.
+
+Artificial intelligence is a field of computer science that studies how machines learn patterns from data. A language model predicts the next token based on the tokens that came before it.
+
+The GPT architecture uses a transformer decoder. Each transformer block contains causal self attention, a feed forward network, layer normalization, and residual connections.
+
+During training, the model reads batches of tokens. It predicts the next token at every position, computes cross entropy loss, and updates its parameters using gradients.
+
+The AdamW optimizer adjusts parameter updates using moving averages of gradients. Weight decay regularizes matrix parameters. Gradient clipping helps prevent unusually large updates.
+
+A learning rate schedule begins with warmup and then gradually decreases with a cosine curve. Gradient accumulation combines several micro batches into one effective larger batch.
+
+On compatible GPUs, reduced precision arithmetic and efficient attention kernels can accelerate training. Benchmarks compare elapsed time and the number of tokens processed per second.
+
+This is a small educational dataset. It is useful for demonstrating how a training loop works, but it is not sufficient for training a capable general purpose language model.
+
+Artificial intelligence is a field of computer science that studies how machines learn patterns from data. A language model predicts the next token based on the tokens that came before it.
+
+The GPT architecture uses a transformer decoder. Each transformer block contains causal self attention, a feed forward network, layer normalization, and residual connections.
+
+During training, the model reads batches of tokens. It predicts the next token at every position, computes cross entropy loss, and updates its parameters using gradients.
+
+The AdamW optimizer adjusts parameter updates using moving averages of gradients. Weight decay regularizes matrix parameters. Gradient clipping helps prevent unusually large updates.
+
+A learning rate schedule begins with warmup and then gradually decreases with a cosine curve. Gradient accumulation combines several micro batches into one effective larger batch.
+
+On compatible GPUs, reduced precision arithmetic and efficient attention kernels can accelerate training. Benchmarks compare elapsed time and the number of tokens processed per second.
+
+This is a small educational dataset. It is useful for demonstrating how a training loop works, but it is not sufficient for training a capable general purpose language model.
+
+Artificial intelligence is a field of computer science that studies how machines learn patterns from data. A language model predicts the next token based on the tokens that came before it.
+
+The GPT architecture uses a transformer decoder. Each transformer block contains causal self attention, a feed forward network, layer normalization, and residual connections.
+
+During training, the model reads batches of tokens. It predicts the next token at every position, computes cross entropy loss, and updates its parameters using gradients.
+
+The AdamW optimizer adjusts parameter updates using moving averages of gradients. Weight decay regularizes matrix parameters. Gradient clipping helps prevent unusually large updates.
+
+A learning rate schedule begins with warmup and then gradually decreases with a cosine curve. Gradient accumulation combines several micro batches into one effective larger batch.
+
+On compatible GPUs, reduced precision arithmetic and efficient attention kernels can accelerate training. Benchmarks compare elapsed time and the number of tokens processed per second.
+
+This is a small educational dataset. It is useful for demonstrating how a training loop works, but it is not sufficient for training a capable general purpose language model.
+
+Artificial intelligence is a field of computer science that studies how machines learn patterns from data. A language model predicts the next token based on the tokens that came before it.
+
+The GPT architecture uses a transformer decoder. Each transformer block contains causal self attention, a feed forward network, layer normalization, and residual connections.
+
+During training, the model reads batches of tokens. It predicts the next token at every position, computes cross entropy loss, and updates its parameters using gradients.
+
+The AdamW optimizer adjusts parameter updates using moving averages of gradients. Weight decay regularizes matrix parameters. Gradient clipping helps prevent unusually large updates.
+
+A learning rate schedule begins with warmup and then gradually decreases with a cosine curve. Gradient accumulation combines several micro batches into one effective larger batch.
+
+On compatible GPUs, reduced precision arithmetic and efficient attention kernels can accelerate training. Benchmarks compare elapsed time and the number of tokens processed per second.
+
+This is a small educational dataset. It is useful for demonstrating how a training loop works, but it is not sufficient for training a capable general purpose language model.
